@@ -77,13 +77,13 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> tina",
+  "> María Isabel Aco García",
   "...",
-  "> today is your birthday",
+  "> Hoy es tu cumpleaños",
   "...",
-  "> so i made you this computer program",
+  "> Así que con mi poco conocimiento pude cambiar un programa y hacer esto",
   "...",
-  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
+  "Te amo <3"
 ];
 const TYPED_CHAR_DELAY = 100;
 const POST_TYPING_SCENE_DELAY = 1000;
